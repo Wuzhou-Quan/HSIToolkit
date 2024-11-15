@@ -1,0 +1,17 @@
+{
+    "none": {
+        "description": "No noise"
+    },
+    "pure": {
+        "description": "No noise"
+    },
+    "ng_baseline": {
+        "description": "Non-i.i.d. Gaussian Noise on all bands for random intensity maximum in (.1, .2, .3, .4)"
+    },
+    "strip_baseline": {
+        "description": "Non-i.i.d. Gaussian Noise on all bands for random intensity maximum in (.1, .2, .3, .4)"
+    },
+    "ultra_mix": {
+        "description": ""
+    }
+}
